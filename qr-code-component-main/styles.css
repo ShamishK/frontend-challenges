@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    justify-content: center;
+    
+}
+
+.full{
+    width: 100wh;
+    height: 100vh;
+    background-color: rgb(202, 216, 228);
+    display: flex;
+    align-items: center;
+ 
+}
+
+.container{
+    background: rgb(255, 255, 255);
+    text-align: center;
+    width: 325px;
+    height : 500px;
+    justify-content: center;
+    border-radius: 25px;
+    padding: 5px;
+    box-shadow:  0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+    
+}
+
+.img{
+    margin: 10px;
+    border-radius: 15px;
+    width: 300px;
+    
+}
+
+.text{
+    margin: 10px;
+}
+
+h2{
+     margin: 5px;
+    
+}
+p{
+    margin-top: 5px;
+}
